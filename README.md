@@ -19,6 +19,23 @@ It demonstrates:
 This dashboard enables **real estate analysts and investors** to understand housing market trends.
 It provides insights into **sales growth, pricing behavior, regional performance, and property type analysis** to support data-driven investment and market strategy decisions.
 
+## Problem Statement
+Stakeholders need visibility into **housing market performance**, pricing trends, and regional variations
+to support real estate investment and strategic planning.
+
+## Key KPIs
+- Year-over-Year Sales Growth
+- Median Sales Price Change
+- Units Sold (Latest Year & Quarter)
+- Last 12-Month Sales
+- Average Price per SQM
+- Offer-to-Purchase Price Ratio
+
+## Assumptions & Limitations
+- Housing data is a sample dataset and may not reflect real market conditions
+- Inflation and interest rates are treated as static per record
+- Analysis focuses on historical trends only
+
 ---
 
 ## Architecture
