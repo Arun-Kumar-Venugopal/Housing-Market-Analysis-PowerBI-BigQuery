@@ -1,6 +1,6 @@
 # Housing Market Analysis – End to End Power BI Project (Google BigQuery)
 
-### 📂 GitHub Repository
+### GitHub Repository
 https://github.com/Arun-Kumar-Venugopal/Housing-Market-Analysis-PowerBI-BigQuery
 
 ---
@@ -42,6 +42,13 @@ to support real estate investment and strategic planning.
 Google BigQuery  
 → Power BI Desktop (SQL, Power Query, DAX)  
 → Power BI Service (Publish & Sharing)
+
+## Analytical Scope
+This analysis focuses on:
+- Housing price trends over time
+- Regional and property-type performance
+- Pricing behavior across sales types
+- Time-based growth metrics (YOY, YTD, rolling periods)
 
 ---
 
@@ -141,6 +148,12 @@ https://app.powerbi.com/links/cnatwzpkyx?ctid=4b05e781-4500-43c7-a12b-f7a45bcd4a
 
 ### House Type Analysis
 ![House Type Analysis](docs/screenshots/house-type-analysis.png)
+
+## Possible Enhancements
+- Implement incremental refresh for large datasets
+- Add forecasting models for housing prices
+- Introduce row-level security for regional analysis
+- Optimize DAX for very large datasets
 
 ---
 
