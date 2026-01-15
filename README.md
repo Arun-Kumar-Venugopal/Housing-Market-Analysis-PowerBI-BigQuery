@@ -15,6 +15,10 @@ It demonstrates:
 - Multi-page, interactive Power BI dashboards
 - Deployment to Power BI Service
 
+## Business Context
+This dashboard enables **real estate analysts and investors** to understand housing market trends.
+It provides insights into **sales growth, pricing behavior, regional performance, and property type analysis** to support data-driven investment and market strategy decisions.
+
 ---
 
 ## Architecture
