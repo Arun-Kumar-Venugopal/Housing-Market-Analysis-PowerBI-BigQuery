@@ -38,9 +38,10 @@ to support real estate investment and strategic planning.
 
 ---
 
-## Architecture
-Google BigQuery → Power BI Desktop → Power BI Service
-
+## Architecture & Data Flow
+Google BigQuery  
+→ Power BI Desktop (SQL, Power Query, DAX)  
+→ Power BI Service (Publish & Sharing)
 
 ---
 
